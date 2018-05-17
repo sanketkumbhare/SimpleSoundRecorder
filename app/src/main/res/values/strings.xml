@@ -49,6 +49,6 @@
     <string name="pref_about_desc">v%s</string>
 
     <!-- About -->
-    <string name="link">Website: github.com/dkim0419/SoundRecorder</string>
+    <string name="link">Website: github.com/sanketkumbhare/SimpleSoundRecorder</string>
 
 </resources>
